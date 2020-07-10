@@ -1,1 +1,3 @@
-# features
+# TypeScript 
+
+- Basic of TypeScript 
